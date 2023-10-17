@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WQ+YQtR9yZSHkBZFlGseQXOlS3Quxb8+396wrgwGYgQdzATgnsCTDnq2Ga2iSgxPmUGROi2wgfm+YH1QyqAC0w==",
+  "dgSpecHash": "VRq6lFPqgSs6wwvbcqniyvUlYRoDjseSadrb5uE0TqdUm/+0vLig83Q+bgClLG5hEc4JuIMqyCOMWolBf56vjA==",
   "success": true,
-  "projectFilePath": "D:\\.net\\asp\\day1\\Repository\\Repository.csproj",
+  "projectFilePath": "D:\\.net\\asp\\day1\\asp\\l\\Repository\\Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sroor For Laptop\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Sroor For Laptop\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

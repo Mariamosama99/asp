@@ -42,7 +42,7 @@ namespace aspApp1.controller
                 }
                
             }
-              return View("LogIn");
+            return RedirectToAction("LogIn");
         }
 
         [HttpGet]
@@ -67,7 +67,7 @@ namespace aspApp1.controller
                     return View();
                 }
             }
-            return View();
+            return RedirectToAction("Index", "Dashboard");
         }
         [HttpGet]
         public IActionResult SignOut()

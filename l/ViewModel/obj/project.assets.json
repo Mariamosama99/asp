@@ -3805,8 +3805,8 @@
     },
     "Models/1.0.0": {
       "type": "project",
-      "path": "../../demo/Web-Application/Models/Models.csproj",
-      "msbuildProject": "../../demo/Web-Application/Models/Models.csproj"
+      "path": "../Models/Models.csproj",
+      "msbuildProject": "../Models/Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3823,11 +3823,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.net\\asp\\day1\\ViewModel\\ViewModel.csproj",
+      "projectUniqueName": "D:\\.net\\asp\\day1\\asp\\l\\ViewModel\\ViewModel.csproj",
       "projectName": "ViewModel",
-      "projectPath": "D:\\.net\\asp\\day1\\ViewModel\\ViewModel.csproj",
+      "projectPath": "D:\\.net\\asp\\day1\\asp\\l\\ViewModel\\ViewModel.csproj",
       "packagesPath": "C:\\Users\\Sroor For Laptop\\.nuget\\packages\\",
-      "outputPath": "D:\\.net\\asp\\day1\\ViewModel\\obj\\",
+      "outputPath": "D:\\.net\\asp\\day1\\asp\\l\\ViewModel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sroor For Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3844,8 +3844,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\.net\\asp\\demo\\Web-Application\\Models\\Models.csproj": {
-              "projectPath": "D:\\.net\\asp\\demo\\Web-Application\\Models\\Models.csproj"
+            "D:\\.net\\asp\\day1\\asp\\l\\Models\\Models.csproj": {
+              "projectPath": "D:\\.net\\asp\\day1\\asp\\l\\Models\\Models.csproj"
             }
           }
         }

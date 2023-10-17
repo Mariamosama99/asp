@@ -4081,8 +4081,8 @@
     },
     "Models/1.0.0": {
       "type": "project",
-      "path": "../../demo/Web-Application/Models/Models.csproj",
-      "msbuildProject": "../../demo/Web-Application/Models/Models.csproj"
+      "path": "../Models/Models.csproj",
+      "msbuildProject": "../Models/Models.csproj"
     },
     "Repository/1.0.0": {
       "type": "project",
@@ -4112,11 +4112,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.net\\asp\\day1\\aspApp1\\aspApp1.csproj",
+      "projectUniqueName": "D:\\.net\\asp\\day1\\asp\\l\\aspApp1\\aspApp1.csproj",
       "projectName": "aspApp1",
-      "projectPath": "D:\\.net\\asp\\day1\\aspApp1\\aspApp1.csproj",
+      "projectPath": "D:\\.net\\asp\\day1\\asp\\l\\aspApp1\\aspApp1.csproj",
       "packagesPath": "C:\\Users\\Sroor For Laptop\\.nuget\\packages\\",
-      "outputPath": "D:\\.net\\asp\\day1\\aspApp1\\obj\\",
+      "outputPath": "D:\\.net\\asp\\day1\\asp\\l\\aspApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sroor For Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4133,14 +4133,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\.net\\asp\\day1\\Repository\\Repository.csproj": {
-              "projectPath": "D:\\.net\\asp\\day1\\Repository\\Repository.csproj"
+            "D:\\.net\\asp\\day1\\asp\\l\\Models\\Models.csproj": {
+              "projectPath": "D:\\.net\\asp\\day1\\asp\\l\\Models\\Models.csproj"
             },
-            "D:\\.net\\asp\\day1\\ViewModel\\ViewModel.csproj": {
-              "projectPath": "D:\\.net\\asp\\day1\\ViewModel\\ViewModel.csproj"
+            "D:\\.net\\asp\\day1\\asp\\l\\Repository\\Repository.csproj": {
+              "projectPath": "D:\\.net\\asp\\day1\\asp\\l\\Repository\\Repository.csproj"
             },
-            "D:\\.net\\asp\\demo\\Web-Application\\Models\\Models.csproj": {
-              "projectPath": "D:\\.net\\asp\\demo\\Web-Application\\Models\\Models.csproj"
+            "D:\\.net\\asp\\day1\\asp\\l\\ViewModel\\ViewModel.csproj": {
+              "projectPath": "D:\\.net\\asp\\day1\\asp\\l\\ViewModel\\ViewModel.csproj"
             }
           }
         }

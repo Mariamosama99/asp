@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NrOs3sEdTUNLxrQuQ1TDiaA0/4cXLrMrHL9gq4L4fJit41Pf0jfCDqjjLPAOc2M/V2SP8nRu1gejMRqtJ4MXCw==",
+  "dgSpecHash": "RvQEigJKuxws3dMtbIlM4VNs23MbywdyhHA6cw6IHMwYSd4a94RiCBfDfWBY/52xjA3amIYEqjfrrgtiJuFRxg==",
   "success": true,
-  "projectFilePath": "D:\\.net\\asp\\day1\\ViewModel\\ViewModel.csproj",
+  "projectFilePath": "D:\\.net\\asp\\day1\\asp\\l\\ViewModel\\ViewModel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sroor For Laptop\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Sroor For Laptop\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

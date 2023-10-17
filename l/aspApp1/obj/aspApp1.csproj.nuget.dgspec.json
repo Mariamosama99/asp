@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.net\\asp\\day1\\aspApp1\\aspApp1.csproj": {}
+    "D:\\.net\\asp\\day1\\asp\\l\\aspApp1\\aspApp1.csproj": {}
   },
   "projects": {
-    "D:\\.net\\asp\\day1\\aspApp1\\aspApp1.csproj": {
+    "D:\\.net\\asp\\day1\\asp\\l\\aspApp1\\aspApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.net\\asp\\day1\\aspApp1\\aspApp1.csproj",
+        "projectUniqueName": "D:\\.net\\asp\\day1\\asp\\l\\aspApp1\\aspApp1.csproj",
         "projectName": "aspApp1",
-        "projectPath": "D:\\.net\\asp\\day1\\aspApp1\\aspApp1.csproj",
+        "projectPath": "D:\\.net\\asp\\day1\\asp\\l\\aspApp1\\aspApp1.csproj",
         "packagesPath": "C:\\Users\\Sroor For Laptop\\.nuget\\packages\\",
-        "outputPath": "D:\\.net\\asp\\day1\\aspApp1\\obj\\",
+        "outputPath": "D:\\.net\\asp\\day1\\asp\\l\\aspApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sroor For Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,14 +28,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\.net\\asp\\day1\\Repository\\Repository.csproj": {
-                "projectPath": "D:\\.net\\asp\\day1\\Repository\\Repository.csproj"
+              "D:\\.net\\asp\\day1\\asp\\l\\Models\\Models.csproj": {
+                "projectPath": "D:\\.net\\asp\\day1\\asp\\l\\Models\\Models.csproj"
               },
-              "D:\\.net\\asp\\day1\\ViewModel\\ViewModel.csproj": {
-                "projectPath": "D:\\.net\\asp\\day1\\ViewModel\\ViewModel.csproj"
+              "D:\\.net\\asp\\day1\\asp\\l\\Repository\\Repository.csproj": {
+                "projectPath": "D:\\.net\\asp\\day1\\asp\\l\\Repository\\Repository.csproj"
               },
-              "D:\\.net\\asp\\demo\\Web-Application\\Models\\Models.csproj": {
-                "projectPath": "D:\\.net\\asp\\demo\\Web-Application\\Models\\Models.csproj"
+              "D:\\.net\\asp\\day1\\asp\\l\\ViewModel\\ViewModel.csproj": {
+                "projectPath": "D:\\.net\\asp\\day1\\asp\\l\\ViewModel\\ViewModel.csproj"
               }
             }
           }
@@ -92,159 +92,14 @@
         }
       }
     },
-    "D:\\.net\\asp\\day1\\Repository\\Repository.csproj": {
+    "D:\\.net\\asp\\day1\\asp\\l\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.net\\asp\\day1\\Repository\\Repository.csproj",
-        "projectName": "Repository",
-        "projectPath": "D:\\.net\\asp\\day1\\Repository\\Repository.csproj",
-        "packagesPath": "C:\\Users\\Sroor For Laptop\\.nuget\\packages\\",
-        "outputPath": "D:\\.net\\asp\\day1\\Repository\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\Sroor For Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net7.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
-            "projectReferences": {
-              "D:\\.net\\asp\\day1\\ViewModel\\ViewModel.csproj": {
-                "projectPath": "D:\\.net\\asp\\day1\\ViewModel\\ViewModel.csproj"
-              },
-              "D:\\.net\\asp\\demo\\Web-Application\\Models\\Models.csproj": {
-                "projectPath": "D:\\.net\\asp\\demo\\Web-Application\\Models\\Models.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.Identity.UI": {
-              "target": "Package",
-              "version": "[7.0.12, )"
-            },
-            "Microsoft.Extensions.Identity.Core": {
-              "target": "Package",
-              "version": "[7.0.12, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "D:\\.net\\asp\\day1\\ViewModel\\ViewModel.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\.net\\asp\\day1\\ViewModel\\ViewModel.csproj",
-        "projectName": "ViewModel",
-        "projectPath": "D:\\.net\\asp\\day1\\ViewModel\\ViewModel.csproj",
-        "packagesPath": "C:\\Users\\Sroor For Laptop\\.nuget\\packages\\",
-        "outputPath": "D:\\.net\\asp\\day1\\ViewModel\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\Sroor For Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net7.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
-            "projectReferences": {
-              "D:\\.net\\asp\\demo\\Web-Application\\Models\\Models.csproj": {
-                "projectPath": "D:\\.net\\asp\\demo\\Web-Application\\Models\\Models.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.Http.Features": {
-              "target": "Package",
-              "version": "[5.0.17, )"
-            },
-            "Microsoft.AspNetCore.Identity.UI": {
-              "target": "Package",
-              "version": "[7.0.12, )"
-            },
-            "Microsoft.Extensions.Identity.Core": {
-              "target": "Package",
-              "version": "[7.0.12, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "D:\\.net\\asp\\demo\\Web-Application\\Models\\Models.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\.net\\asp\\demo\\Web-Application\\Models\\Models.csproj",
+        "projectUniqueName": "D:\\.net\\asp\\day1\\asp\\l\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "D:\\.net\\asp\\demo\\Web-Application\\Models\\Models.csproj",
+        "projectPath": "D:\\.net\\asp\\day1\\asp\\l\\Models\\Models.csproj",
         "packagesPath": "C:\\Users\\Sroor For Laptop\\.nuget\\packages\\",
-        "outputPath": "D:\\.net\\asp\\demo\\Web-Application\\Models\\obj\\",
+        "outputPath": "D:\\.net\\asp\\day1\\asp\\l\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sroor For Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -308,6 +163,151 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Identity.Core": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\.net\\asp\\day1\\asp\\l\\Repository\\Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\.net\\asp\\day1\\asp\\l\\Repository\\Repository.csproj",
+        "projectName": "Repository",
+        "projectPath": "D:\\.net\\asp\\day1\\asp\\l\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\Sroor For Laptop\\.nuget\\packages\\",
+        "outputPath": "D:\\.net\\asp\\day1\\asp\\l\\Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sroor For Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\.net\\asp\\day1\\asp\\l\\Models\\Models.csproj": {
+                "projectPath": "D:\\.net\\asp\\day1\\asp\\l\\Models\\Models.csproj"
+              },
+              "D:\\.net\\asp\\day1\\asp\\l\\ViewModel\\ViewModel.csproj": {
+                "projectPath": "D:\\.net\\asp\\day1\\asp\\l\\ViewModel\\ViewModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.Extensions.Identity.Core": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\.net\\asp\\day1\\asp\\l\\ViewModel\\ViewModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\.net\\asp\\day1\\asp\\l\\ViewModel\\ViewModel.csproj",
+        "projectName": "ViewModel",
+        "projectPath": "D:\\.net\\asp\\day1\\asp\\l\\ViewModel\\ViewModel.csproj",
+        "packagesPath": "C:\\Users\\Sroor For Laptop\\.nuget\\packages\\",
+        "outputPath": "D:\\.net\\asp\\day1\\asp\\l\\ViewModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sroor For Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\.net\\asp\\day1\\asp\\l\\Models\\Models.csproj": {
+                "projectPath": "D:\\.net\\asp\\day1\\asp\\l\\Models\\Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[7.0.12, )"
             },
             "Microsoft.Extensions.Identity.Core": {
               "target": "Package",
