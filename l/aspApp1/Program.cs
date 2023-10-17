@@ -30,6 +30,10 @@ public class Program
         builder.Services.AddScoped<ProductManager>();
         builder.Services.AddScoped<CategoryManeger>();
         builder.Services.AddScoped<AccountManger>();
+        builder.Services.AddScoped<RoleManager>();
+        builder.Services.AddScoped<IUserClaimsPrincipalFactory<User>, UserFactory>();
+        builder.Services.AddControllersWithViews();
+
 
         builder.Services.AddDbContext<MyDBContext>(options =>
         {
@@ -37,7 +41,6 @@ public class Program
                 builder.Configuration.GetConnectionString("MyDB"));
         });
 
-        builder.Services.AddControllersWithViews();
 
         var app = builder.Build();
 
